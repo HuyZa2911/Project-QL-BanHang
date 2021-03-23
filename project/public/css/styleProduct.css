@@ -1,0 +1,14 @@
+.imageProduct img{
+    max-width:100% ;
+    margin: 0 auto; 
+    display: block;
+ }
+ div.comment{
+    background: burlywood;
+    background-image: url(./public/images/color.jpg);
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: 50% 50%;
+ }
+
